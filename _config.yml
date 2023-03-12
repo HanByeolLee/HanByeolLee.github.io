@@ -110,9 +110,9 @@ author:
   location         : "Gwangju, Republic of Korea"
   email            : "hanb96570@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hanb9670@gmail.com"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:hanb9670@gmail.com"
     - label: "Github"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/hanbyeollee"
