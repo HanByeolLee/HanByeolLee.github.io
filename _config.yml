@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "**Follow Your Heart**"
+title                    : "Follow Your Heart"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hanbyeol Lee"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Hanbyoel Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I major in mechanical engineering<bro>I'm interested in AI<bro>I love basketball"
+  bio              : "I major in mechanical engineering<br>I'm interested in AI<br>I love basketball"
   location         : "Gwangju, Republic of Korea"
   email            : "hanb96570@gmail.com"
   links:
@@ -115,7 +115,7 @@ author:
       url: "mailto:hanb9670@gmail.com"
     - label: "Github"
       icon: "fas fa-fw fa-link"
-      # url: "https://github.com/hanbyeollee"
+      url: "https://github.com/hanbyeollee"
 
 # Site Footer
 footer:
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/hanbyeollee"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
